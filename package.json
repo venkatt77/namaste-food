@@ -1,0 +1,26 @@
+{
+  "name": "namaste-food",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatt77/react.git"
+  },
+  "keywords": [
+    "React",
+    "Venkat"
+  ],
+  "author": "Venkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatt77/react/issues"
+  },
+  "homepage": "https://github.com/venkatt77/react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
